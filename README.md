@@ -1,0 +1,2 @@
+# redis_firewalld
+使用firewalld限制redis的访问
